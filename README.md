@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashfidk
 - 👀 I’m interested in cs and motorsports
-- 🌱 I’m currently taking a degree in systems engineering 
+- 🌱 I’m currently taking a degree in systems and network engineering 
 
 <!---
 ashfidk/ashfidk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
